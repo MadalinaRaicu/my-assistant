@@ -8,7 +8,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">git remote add origin https://github.com/MadalinaRaicu/my-assistant.git
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<!-- // Set up Firebase Configs - added to enivironment as well (not sure if necessary) -->
+  <script src="https://www.gstatic.com/firebasejs/5.5.5/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyCVjMXqWMNNHfR0YruMcfeer0n9Nk8vR3k",
+      authDomain: "my-oil-analyst.firebaseapp.com",
+      databaseURL: "https://my-oil-analyst.firebaseio.com",
+      projectId: "my-oil-analyst",
+      storageBucket: "my-oil-analyst.appspot.com",
+      messagingSenderId: "776204455699"
+    };
+    firebase.initializeApp(config);
+  </script>
+
 </head>
 <body>
   <app-root></app-root>
