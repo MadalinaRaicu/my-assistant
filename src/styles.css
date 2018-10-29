@@ -1,11 +1,19 @@
 @import "~@angular/material/prebuilt-themes/purple-green.css";
 
-body  {
-   background-color: #190c40; 
-}
+body {
+    font-family: Lato;
+    color: #212121;
+    background-color:#a9ef83a6;
+    margin: 20px;
+    height: 100%;
+  }
 
-h1, h2, h3 {
-    color: white;
-}
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+  vis {
+    position: absolute; 
+    top: 50px; 
+    left: 50px; 
+    right: 50px; 
+    bottom: 50px;
+  }
+
+  
