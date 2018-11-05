@@ -1,4 +1,4 @@
-import { Component, NgModule } from '@angular/core';
+import { Component, NgModule, Input } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgxChartsModule } from '@swimlane/ngx-charts';
 import { single } from '../../data';
@@ -9,6 +9,8 @@ import { single } from '../../data';
   styleUrls: ['./bar-chart.component.css']
 })
 export class BarChartComponent {
+  @Input() type: string;
+
   multi: any[];
   results: any[] = single;
 
