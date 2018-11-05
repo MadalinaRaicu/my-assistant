@@ -1,23 +1,30 @@
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
 
-body {
+$core-screen-sm: 600px;
+$core-screen-md: 900px;
+$core-screen-lg: 1200px;
+
+$core-margin: 10px;
+$vis_margin-bottom: ($core-margin * 4);
+
+  body {
     font-family: Lato;
     color: #212121;
     background-color:#a9ef83a6;
   }
-
-  vis {
-    width: 35%;
-    height: 40%;
-    margin: 10%;
-  }
-
-  /* why does not work? */
-  inline {
-    display: -webkit-flex; /* Safari */
-    -webkit-flex-direction: row; /* Safari 6.1+ */
+  
+  .inline {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
+
+  .vis {
+    display: flex;
+    justify-content: center;
+    margin-bottom: $vis_margin-bottom;
+  }
+
 
   

@@ -12,12 +12,16 @@ import { MaterialModule} from './modules/material.module';
 import { NgxChartsModule } from '@swimlane/ngx-charts';
 
 import { BarChartComponent } from './bar-chart/bar-chart.component';
+import { PieChartComponent } from './pie-chart/pie-chart.component';
+import { TimeChartComponent } from './time-chart/time-chart.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    BarChartComponent
+    BarChartComponent,
+    PieChartComponent,
+    TimeChartComponent
   ],
   imports: [
     AngularFireModule.initializeApp(environment.firebase, 'my-oil-analyst'),

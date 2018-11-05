@@ -123,5 +123,10 @@
       }
     }
   },
-  "defaultProject": "my-assistant"
+  "defaultProject": "my-assistant",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }

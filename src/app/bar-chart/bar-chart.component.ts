@@ -1,6 +1,4 @@
 import { Component, NgModule, Input } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
-import { NgxChartsModule } from '@swimlane/ngx-charts';
 import { single, multi } from '../../data';
 
 @Component({

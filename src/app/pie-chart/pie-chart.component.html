@@ -1,0 +1,50 @@
+<div *ngIf="type === 'pie-chart'">
+  <ngx-charts-pie-chart
+    class="chart-container"
+    [view]="view"
+    [scheme]="colorScheme"
+    [results]="singleResults"
+    [animations]="animations"
+    [legend]="showLegend"
+    [legendTitle]="legendTitle"
+    [legendPosition]="legendPosition"
+    [explodeSlices]="explodeSlices"
+    [labels]="showLabels"
+    [doughnut]="doughnut"
+    [arcWidth]="arcWidth"
+    (legendLabelClick)="onLegendLabelClick($event)"
+    [gradient]="gradient"
+    [tooltipDisabled]="tooltipDisabled"
+    [tooltipText]="pieTooltipText"
+    (dblclick)="dblclick($event)"
+    (select)="select($event)">
+  </ngx-charts-pie-chart>
+</div>
+
+<div *ngIf="type === 'advanced-pie-chart'">
+  <ngx-charts-advanced-pie-chart
+    [view]="view"
+    [scheme]="colorScheme"
+    [results]="singleResults"
+    [valueFormatting]="valueFormatting"
+    [animations]="animations"
+    (legendLabelClick)="onLegendLabelClick($event)"
+    [gradient]="gradient"
+    [tooltipDisabled]="tooltipDisabled"
+    [tooltipText]="pieTooltipText"
+    (select)="select($event)">
+  </ngx-charts-advanced-pie-chart>
+</div>
+
+<div *ngIf="type === 'pie-grid'">
+  <ngx-charts-pie-grid
+  [view]="view"
+  [scheme]="colorScheme"
+  (legendLabelClick)="onLegendLabelClick($event)"
+  [results]="singleResults"
+  [animations]="animations"
+  [tooltipDisabled]="tooltipDisabled"
+  [tooltipText]="pieTooltipText"
+  (select)="select($event)">
+  </ngx-charts-pie-grid>
+</div>
