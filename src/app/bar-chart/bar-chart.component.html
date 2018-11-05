@@ -2,7 +2,7 @@
   <ngx-charts-bar-horizontal
     [view]="view"
     [scheme]="colorScheme"
-    [results]="results"
+    [results]="single"
     [gradient]="gradient"
     [xAxis]="showXAxis"
     [yAxis]="showYAxis"
@@ -19,7 +19,7 @@
   <ngx-charts-bar-vertical
   [view]="view"
   [scheme]="colorScheme"
-  [results]="results"
+  [results]="single"
   [gradient]="gradient"
   [xAxis]="showXAxis"
   [yAxis]="showYAxis"
@@ -31,3 +31,22 @@
   (select)="onSelect($event)">
   </ngx-charts-bar-vertical>§
 </div>
+
+<div *ngIf="chartType === 'vertical-stacked'" class="vis">
+    <ngx-charts-bar-vertical-stacked
+    [view]="view"
+    [scheme]="colorScheme"
+    [results]="multi"
+    [gradient]="gradient"
+    [xAxis]="showXAxis"
+    [yAxis]="showYAxis"
+    [legend]="showLegend"
+    [showXAxisLabel]="showXAxisLabel"
+    [showYAxisLabel]="showYAxisLabel"
+    [xAxisLabel]="xAxisLabel"
+    [yAxisLabel]="yAxisLabel"
+    (select)="onSelect($event)">
+    </ngx-charts-bar-vertical-stacked>
+</div>
+
+

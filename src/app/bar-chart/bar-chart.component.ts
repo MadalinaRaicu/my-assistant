@@ -1,7 +1,7 @@
 import { Component, NgModule, Input } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgxChartsModule } from '@swimlane/ngx-charts';
-import { single } from '../../data';
+import { single, multi } from '../../data';
 
 @Component({
   selector: 'bar-chart',
@@ -12,7 +12,7 @@ export class BarChartComponent {
   @Input() type: string;
 
   multi: any[];
-  results: any[] = single;
+  // single: any[] = single;
 
   view: any[] = [700, 400];
   // options
