@@ -1,8 +1,8 @@
-<div *ngIf=" type === 'horizontal'" class="vis">
+<div *ngIf=" type === 'horizontal'" >
   <ngx-charts-bar-horizontal
     [view]="view"
     [scheme]="colorScheme"
-    [results]="single"
+    [results]="singleResults"
     [gradient]="gradient"
     [xAxis]="showXAxis"
     [yAxis]="showYAxis"
@@ -15,11 +15,11 @@
   </ngx-charts-bar-horizontal>
 </div>
 
-<div *ngIf=" type === 'vertical'" class="vis">
+<div *ngIf=" type === 'vertical'" >
   <ngx-charts-bar-vertical
   [view]="view"
   [scheme]="colorScheme"
-  [results]="single"
+  [results]="singleResults"
   [gradient]="gradient"
   [xAxis]="showXAxis"
   [yAxis]="showYAxis"
@@ -32,11 +32,11 @@
   </ngx-charts-bar-vertical>§
 </div>
 
-<div *ngIf="chartType === 'vertical-stacked'" class="vis">
+<div *ngIf="type === 'vertical-stacked'" >
     <ngx-charts-bar-vertical-stacked
     [view]="view"
     [scheme]="colorScheme"
-    [results]="multi"
+    [results]="multiResults"
     [gradient]="gradient"
     [xAxis]="showXAxis"
     [yAxis]="showYAxis"
@@ -47,6 +47,23 @@
     [yAxisLabel]="yAxisLabel"
     (select)="onSelect($event)">
     </ngx-charts-bar-vertical-stacked>
+</div>
+
+<div *ngIf="type === 'horizontal-stacked'" >
+    <ngx-charts-bar-horizontal-stacked
+    [view]="view"
+    [scheme]="colorScheme"
+    [results]="multiResults"
+    [gradient]="gradient"
+    [xAxis]="showXAxis"
+    [yAxis]="showYAxis"
+    [legend]="showLegend"
+    [showXAxisLabel]="showXAxisLabel"
+    [showYAxisLabel]="showYAxisLabel"
+    [xAxisLabel]="xAxisLabel"
+    [yAxisLabel]="yAxisLabel"
+    (select)="onSelect($event)">
+    </ngx-charts-bar-horizontal-stacked>
 </div>
 
 

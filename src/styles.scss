@@ -1,23 +1,18 @@
-@import "~@angular/material/prebuilt-themes/purple-green.css";
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
 
 body {
     font-family: Lato;
     color: #212121;
     background-color:#a9ef83a6;
-    margin: 20px;
-    height: 100%;
   }
 
   vis {
-    position: absolute; 
-    top: 50px; 
-    left: 50px; 
-    right: 50px; 
-    bottom: 50px;
-    width: 50%;
+    width: 35%;
+    height: 40%;
+    margin: 10%;
   }
 
-  /* why it does not work? */
+  /* why does not work? */
   inline {
     display: -webkit-flex; /* Safari */
     -webkit-flex-direction: row; /* Safari 6.1+ */

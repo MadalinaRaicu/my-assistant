@@ -11,9 +11,8 @@ import { single, multi } from '../../data';
 export class BarChartComponent {
   @Input() type: string;
 
-  multi: any[];
-  // single: any[] = single;
-
+  singleResults : any[] = single;
+  multiResults :any[] = multi;
   view: any[] = [700, 400];
   // options
   showXAxis = true;
@@ -30,8 +29,7 @@ export class BarChartComponent {
   };
 
   constructor() {
-    this.results = single;
-    console.log(this.results);
+
   }
 
   onSelect(event) {
