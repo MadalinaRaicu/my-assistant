@@ -1,4 +1,4 @@
-import { Component, NgModule, Input } from '@angular/core';
+import { Component, NgModule, Input, OnInit } from '@angular/core';
 import { single, multi } from '../../data';
 
 @Component({
@@ -6,9 +6,10 @@ import { single, multi } from '../../data';
   templateUrl: './bar-chart.component.html',
   styleUrls: ['./bar-chart.component.scss']
 })
-export class BarChartComponent {
+export class BarChartComponent implements OnInit {
   @Input() type: string;
 
+  data: any;
   singleResults : any[] = single;
   multiResults :any[] = multi;
   view: any[] = [700, 400];
@@ -26,10 +27,19 @@ export class BarChartComponent {
     domain: ['#5AA454', '#A10A28', '#C7B42C', '#AAAAAA']
   };
 
-  constructor() {
+  constructor() { }
 
+  ngOnInit() {
+    switch( this.type ) {
+      case 'horizontal': this.data = single; break;
+      case 'vertical': this.data = single; break;
+      case 'horizontal-stacked': this.data = multi; break;
+      case 'vertical-stacked': this.data = multi; break;
+      case 'horizontal-2d': this.data = multi; break;
+      case 'vertical-2d': this.data = multi; break;
+ 
+    }
   }
-
   onSelect(event) {
     console.log(event);
   }
