@@ -14,6 +14,7 @@ import { NgxChartsModule } from '@swimlane/ngx-charts';
 import { BarChartComponent } from './bar-chart/bar-chart.component';
 import { PieChartComponent } from './pie-chart/pie-chart.component';
 import { TimeChartComponent } from './time-chart/time-chart.component';
+import { CardChartComponent } from './card-chart/card-chart.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { TimeChartComponent } from './time-chart/time-chart.component';
     AppComponent,
     BarChartComponent,
     PieChartComponent,
-    TimeChartComponent
+    TimeChartComponent,
+    CardChartComponent
   ],
   imports: [
     AngularFireModule.initializeApp(environment.firebase, 'my-oil-analyst'),
