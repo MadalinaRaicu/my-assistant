@@ -10,11 +10,13 @@ import { environment } from '../environments/environment';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule} from './modules/material.module';
 import { NgxChartsModule } from '@swimlane/ngx-charts';
+import { AmChartsModule } from "@amcharts/amcharts3-angular";
 
 import { BarChartComponent } from './bar-chart/bar-chart.component';
 import { PieChartComponent } from './pie-chart/pie-chart.component';
 import { TimeChartComponent } from './time-chart/time-chart.component';
 import { CardChartComponent } from './card-chart/card-chart.component';
+import { DrilldownMapComponent } from './drilldown-map/drilldown-map.component';
 
 
 @NgModule({
@@ -23,7 +25,8 @@ import { CardChartComponent } from './card-chart/card-chart.component';
     BarChartComponent,
     PieChartComponent,
     TimeChartComponent,
-    CardChartComponent
+    CardChartComponent,
+    DrilldownMapComponent
   ],
   imports: [
     AngularFireModule.initializeApp(environment.firebase, 'my-oil-analyst'),
@@ -31,7 +34,8 @@ import { CardChartComponent } from './card-chart/card-chart.component';
     BrowserModule,
     BrowserAnimationsModule,
     NgxChartsModule,
-    MaterialModule
+    MaterialModule,
+    AmChartsModule
   ],
   providers: [],
   bootstrap: [AppComponent],
