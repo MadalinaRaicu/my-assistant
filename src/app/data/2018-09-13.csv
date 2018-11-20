@@ -1,7 +1,4 @@
-INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT
-
-Table 1: World Oil Supply And Demand (million barrels per day)
-
+Table,1: World Oil Supply And Demand (million barrels per day)
 ,2015,2016,1Q17,2Q17,3Q17,4Q17,2017,1Q18,2Q18,3Q18,4Q18,2018,1Q19,2Q19,3Q19,4Q19,2019
 OECD DEMAND,,,,,,,,,,,,,,,,,
 Americas,24.6,24.9,24.6,25.1,25.2,25.3,25.1,25.3,25.4,25.4,25.5,25.4,25.2,25.6,25.7,25.8,25.6
@@ -10,10 +7,10 @@ Asia Oceania,8.1,8.1,8.5,7.7,7.8,8.3,8.1,8.5,7.6,7.8,8.3,8,8.4,7.6,7.7,8.2,8
 Total OECD,46.5,47,46.9,47,47.7,48.1,47.4,47.8,47.1,47.7,48,47.7,47.6,47.6,48.1,48.4,47.9
 NON-OECD DEMAND,,,,,,,,,,,,,,,,,
 FSU,4.6,4.5,4.3,4.5,4.8,4.7,4.6,4.5,4.7,4.9,4.7,4.7,4.5,4.8,5,4.8,4.8
-Europe,0.7,0.7,0.7,0.8,0.8,0.8,0.7,0.7,0.8,0.8,0.8,0.8,0.7,0.8,0.8,0.8,0.8
+Europe(non),0.7,0.7,0.7,0.8,0.8,0.8,0.7,0.7,0.8,0.8,0.8,0.8,0.7,0.8,0.8,0.8,0.8
 China,11.6,12,12.4,12.8,12.4,12.7,12.6,12.8,13.2,13.3,13.5,13.2,13.3,13.6,13.7,14,13.6
 Other Asia,12.5,13,13.2,13.4,13.2,13.6,13.4,13.7,13.9,13.5,14,13.8,14.1,14.3,13.9,14.5,14.2
-Americas,6.7,6.4,6.3,6.5,6.6,6.5,6.5,6.3,6.4,6.5,6.5,6.4,6.3,6.5,6.6,6.5,6.5
+Americas(non),6.7,6.4,6.3,6.5,6.6,6.5,6.5,6.3,6.4,6.5,6.5,6.4,6.3,6.5,6.6,6.5,6.5
 Middle East,8.5,8.5,8.2,8.7,8.9,8.2,8.5,8.1,8.4,8.9,8.4,8.5,8.2,8.6,9.1,8.5,8.6
 Africa,4.2,4.3,4.4,4.3,4.2,4.3,4.3,4.3,4.3,4.2,4.3,4.3,4.4,4.4,4.3,4.4,4.4
 Total Non-OECD,48.7,49.4,49.5,51,50.8,50.6,50.5,50.5,51.6,52.1,52.3,51.6,51.7,52.9,53.3,53.5,52.8
@@ -48,18 +45,21 @@ Total,0.8,0,0.3,-0.2,-0.7,-1.4,-0.5,-0.4,-0.1,,,,,,,,
 Floating storage/Oil in transit,0.3,0.2,0,-0.1,0.5,1,0.4,-1.0,0.3,,,,,,,,
 Miscellaneous to balance5,0.1,0.4,-0.1,-0.6,-0.3,-0.1,-0.3,1.4,0.1,,,,,,,,
 Total Stock Ch. & Misc,1.2,0.6,0.2,-1.0,-0.5,-0.5,-0.4,0,0.3,,,,,,,,
-Memo items:
+Memo items:,,,,,,,,,,,,,,,,,
 Call on OPEC crude + Stock ch.6,30.8,32.4,32.1,33.5,33.4,33.1,33,32.4,31.8,32.4,32.8,32.3,31.3,31.7,32.2,32.4,31.9
-1. "Measured as deliveries from refineries and primary stocks; comprises inland deliveries; international marine bunkers; refinery fuel; crude for direct burning oil from non-conventional sources and other sources of supply. Includes Biofuels.
-2. "Other Asia includes Indonesia throughout. Latin America excludes Ecuador throughout. Africa excludes Angola; Gabon and Equatorial Guinea throughout."
-3. Net volumetric gains and losses in the refining process and marine transportation losses.
-4. "Comprises crude oil; condensates; NGLs; oil from non-conventional sources and other sources of supply."
-5. Includes changes in non-reported stocks in OECD and non-OECD areas.
-6. Equals the arithmetic difference between total demand minus total non-OPEC supply minus OPEC NGLs.
-
-
-Table 1a: World Oil Supply And Demand: Changes From Last Month’s Table 1 (million barrels per day)
-
+1,"Measured as deliveries from refineries and primary stocks, comprises inland deliveries, international marine bunkers, refinery fuel, crude for direct burning,",,,,,,,,,,,,,,,,
+,oil from non-conventional sources and other sources of supply. Includes Biofuels.,,,,,,,,,,,,,,,,
+2,"Other Asia includes Indonesia throughout. Latin America excludes Ecuador throughout. Africa excludes Angola, Gabon and Equatorial Guinea throughout.",,,,,,,,,,,,,,,,
+3,Net volumetric gains and losses in the refining process and marine transportation losses.,,,,,,,,,,,,,,,,
+4,"Comprises crude oil, condensates, NGLs, oil from non-conventional sources and other sources of supply.",,,,,,,,,,,,,,,,
+5,Includes changes in non-reported stocks in OECD and non-OECD areas.,,,,,,,,,,,,,,,,
+6,Equals the arithmetic difference between total demand minus total non-OPEC supply minus OPEC NGLs.,,,,,,,,,,,,,,,,
+13 SEPTEMBER 2018 ,,,,,,,,,,,,,,,,,1
+TABLES ,,,,,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,
+,,,,,Table 1a,,,,,,,,,,,,
+,WORLD OIL SUPPLY AND DEMAND: CHANGES FROM LAST MONTH'S TABLE 1,,,,,,,,,,,,,,,,
+Table,1a: World Oil Supply And Demand: Changes From Last Month’s Table 1 ,,,,,,,,,,,,,,,,
+,,,,,(million barrels per day),,,,,,,,,,,,
 ,2015,2016,1Q17,2Q17,3Q17,4Q17,2017,1Q18,2Q18,3Q18,4Q18,2018,1Q19,2Q19,3Q19,4Q19,2019
 OECD DEMAND,,,,,,,,,,,,,,,,,
 Americas,-,-,-,0.1,0.1,0.2,0.1,-,0.1,-,-,-,0.1,-,0.1,0.1,0.1
@@ -109,9 +109,11 @@ Total Stock Ch. & Misc,-,-,0.1,0.1,0.1,-0.1,-,-,0.2,,,,,,,,
 Memo items:,,,,,,,,,,,,,,,,,
 Call on OPEC crude + Stock ch.,-,-,-0.1,-0.1,-0.1,0.1,-,0.1,-0.2,-0.1,0.2,-,0.1,-0.2,0.1,0.1,-
 "When submitting their monthly oil statistics, OECD Member countries periodically update data for prior periods.",,,,,,Similar updates to non-OECD data can occur.,,,,,,,,,,,
-
-Table 2: Summary of Global Oil Demand 
-
+2,,,,,,,,,,,,,,13 SEPTEMBER 2018 ,,,
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,,,,,,,,,TABLES ,,
+,,,,,,,Table 2,,,,,,,,,,,
+,,,,,SUMMARY OF GLOBAL OIL DEMAND,,,,,,,,,,,,,
+Table,2: Summary of Global Oil Demand ,,,,,,,,,,,,,,,,,
 ,,2016,1Q17,2Q17,3Q17,4Q17,2017,1Q18,2Q18,3Q18,4Q18,2018,1Q19,2Q19,3Q19,4Q19,2019,
 Demand (mb/d),,,,,,,,,,,,,,,,,,
 Americas,,24.88,24.61,25.12,25.15,25.34,25.06,25.26,25.37,25.42,25.51,25.39,25.24,25.62,25.71,25.82,25.6,
@@ -181,11 +183,16 @@ Total Non-OECD,,0,-0.09,-0.06,-0.04,0.06,-0.03,0.05,-0.11,0.3,0.21,0.11,0.06,-0.
 World,,0,-0.05,-0.01,0.04,0.21,0.05,0.05,-0.02,0.21,0.12,0.09,0.04,-0.24,0.3,0.19,0.07,
 Revisions to Oil Demand Growth from Last Month's Report (mb/d),,,,,,,,,,,,,,,,,,
 World,,0,-0.05,0.02,0.07,0.17,0.05,0.1,-0.01,0.17,-0.09,0.04,-0.01,-0.22,0.09,0.06,-0.02,
-
-Table 2a: OECD Regional Oil Demand (million barrels per day)
-
+*,"France, Germany, Italy, Spain and UK",,,,,,,,,,,,,,,,,
+13 SEPTEMBER 2018 ,,,,,,,,,,,,,,,,,3,
+TABLES ,,,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,
+,,,,Table 2a,,,,,,,,
+,,,,,,1,,,,,,
+,,,OECD REGIONAL OIL DEMAND,,,,,,,,,
+Table,2a: OECD Regional Oil Demand ,,,,,,,,,,,
+,,,,(million barrels per day),,,,,,,,
 ,,,,,,,,,,Latest month vs.,,
-,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,2,May 18,Jun 17
+,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,May 18,Jun 17
 Americas,,,,,,,,,,,,
 LPG and ethane,3.32,3.33,3.05,3.55,3.99,3.33,3.54,3.15,3.3,0.15,0.08,
 Naphtha,0.34,0.34,0.34,0.33,0.28,0.27,0.28,0.26,0.27,0.01,-0.10,
@@ -222,12 +229,17 @@ Gasoil/diesel oil,13.26,13.51,13.48,13.87,13.78,13.58,13.61,13.64,13.5,-0.14,-0.
 Residual fuel oil,2.16,2.15,2.07,2.18,2.18,2.05,2.16,2.07,1.91,-0.16,-0.16,
 Other products,4.18,4.1,4.35,4.01,3.79,4.04,3.67,4.01,4.42,0.41,0.05,
 Total,46.97,47.42,47.66,48.06,47.82,47.13,46.67,47.1,47.62,0.52,-0.43,
-1."Demand measured as deliveries from refineries and primary stocks comprises inland deliveries; international bunkers and refinery fuel. It includes crude for direct burning; oil from non-conventional sources and other sources of supply. Jet/kerosene comprises jet kerosene and non-aviation kerosene. Gasoil comprises diesel; light heating oil and other gasoils. North America comprises US 50 states; US territories; Mexico and Canada.
-2.Latest official OECD submissions (MOS)
-
-
-Table 2b: Oil Demand in Selected OECD Countries (million barrels per day)
-
+1,"Demand, measured as deliveries from refineries and primary stocks, comprises inland deliveries, international bunkers and refinery fuel.",,,,,,"It includes crude for direct burning, oil from",,,,,
+,"non-conventional sources and other sources of supply. Jet/kerosene comprises jet kerosene and non-aviation kerosene. Gasoil comprises diesel, light heating oil and other gasoils.",,,,,,,,,,,
+,"North America comprises US 50 states, US territories, Mexico and Canada.",,,,,,,,,,,
+2,Latest official OECD submissions (MOS).,,,,,,,,,,,
+4,,,,,,,,,13 SEPTEMBER 2018 ,,,
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,,,,TABLES ,
+,,,,Table 2b,,,,,,,,
+,,,,,,,1,,,,,
+,,OIL DEMAND IN SELECTED OECD COUNTRIES,,,,,,,,,,
+Table,2b: Oil Demand in Selected OECD Countries ,,,,,,,,,,,
+,,,,(million barrels per day),,,,,,,,
 ,,,,,,,,,,Latest month vs.,,
 ,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,2,May 18,Jun 17
 United States3,,,,,,,,,,,,
@@ -299,13 +311,16 @@ Other gasoil,0.28,0.27,0.29,0.3,0.28,0.27,0.21,0.33,0.26,-0.06,-0.01,
 Residual fuel oil,0.05,0.06,0.05,0.05,0.06,0.08,0.07,0.09,0.09,0,0.02,
 Other products,0.36,0.35,0.37,0.36,0.32,0.36,0.32,0.38,0.38,0,0.05,
 Total,2.47,2.45,2.52,2.52,2.32,2.35,2.25,2.41,2.38,-0.03,-0.08,
-1. Demand measured as deliveries from refineries and primary stocks comprises inland deliveries; international bunkers and refinery fuel. It includes crude for direct burning; oil from  non-conventional sources and other sources of supply. Jet/kerosene comprises jet kerosene and non-aviation kerosene. Gasoil comprises diesel, light heating oil and other gasoils.";
-2. Latest official OECD submissions (MOS).
-3. US figures exclude US territories.
-
-
-Table 3: World Oil Production (million barrels per day)
-
+1,"Demand, measured as deliveries from refineries and primary stocks, comprises inland deliveries, international bunkers and refinery fuel. It includes crude for direct burning, oil from",,,,,,,,,,,
+,"non-conventional sources and other sources of supply. Jet/kerosene comprises jet kerosene and non-aviation kerosene. Gasoil comprises diesel, light heating oil and other gasoils.",,,,,,,,,,,
+2,Latest official OECD submissions (MOS).,,,,,,,,,,,
+3,US figures exclude US territories.,,,,,,,,,,,
+13 SEPTEMBER 2018 ,,,,,,,,,,,5,
+TABLES ,,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,
+,,,Table 3,,,,,,,,,
+,,,WORLD OIL PRODUCTION,,,,,,,,,
+Table,3: World Oil Production ,,,,,,,,,,,
+,,,(million barrels per day),,,,,,,,,
 ,2017,2018,2019,1Q18,2Q18,3Q18,4Q18,1Q19,Jun 18,Jul 18,Aug 18,
 OPEC,,,,,,,,,,,,
 Crude Oil,,,,,,,,,,,,
@@ -368,19 +383,24 @@ Africa,1.41,1.45,1.44,1.44,1.48,1.46,1.43,1.45,1.51,1.47,,1.46
 Egypt,0.64,0.64,0.61,0.65,0.65,0.64,0.63,0.62,0.65,0.64,,0.64
 Others,0.77,0.81,0.83,0.8,0.82,0.82,0.8,0.83,0.86,0.82,,0.82
 Total Non-OECD,28.99,29.07,29.37,28.96,29.06,29.08,29.2,29.32,29.22,29.14,29.03,
-
+,5,,,,,,,,,,,
 Processing gains,2.29,2.32,2.35,2.32,2.32,2.32,2.32,2.35,2.32,2.32,,2.32
 Global Biofuels,2.47,2.56,2.66,2.09,2.71,2.97,2.47,2.19,3.01,3.03,,3.01
 TOTAL NON-OPEC,57.96,59.97,61.81,59.06,59.95,60.38,60.48,60.96,60.49,60.75,60.41,
 TOTAL SUPPLY,97.48,,,98.32,98.98,,,,99.66,99.97,100.05,
-1. "Includes condensates reported by OPEC countries oil from non-conventional sources e.g. NGLs in Qatar and Nigeria and non-oil inputs to Saudi Arabian MTBE.
-2. "Latin America excludes Ecuador throughout. Africa excludes Angola; Congo; Gabon and Equatorial Guinea throughout. Asia includes Indonesia throughout."
-3. "Comprises crude oil; condensates; NGLs and oil from non-conventional sources"
-4. Includes small amounts of production from Jordan and Bahrain.
-5. Net volumetric gains and losses in refining and marine transportation losses.
-
-Table 3a: Oil Supply in OECD Countries (thousand of barrels per day)
-
+1,"Includes condensates reported by OPEC countries, oil from non-conventional sources,",,e.g. NGLs in Qatar and Nigeria,,,,,,,,,
+,and non-oil inputs to Saudi Arabian MTBE.,,,,,,,,,,,
+2,"Latin America excludes Ecuador throughout. Africa excludes Angola, Congo, Gabon and Equatorial Guinea throughout. Asia includes Indonesia throughout.",,,,,,,,,,,
+3,"Comprises crude oil, condensates, NGLs and oil from non-conventional sources",,,,,,,,,,,
+4,Includes small amounts of production from Jordan and Bahrain.,,,,,,,,,,,
+5,Net volumetric gains and losses in refining and marine transportation losses.,,,,,,,,,,,
+6,,,,,,,,,13 SEPTEMBER 2018 ,,,
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,,,,TABLES 
+,,,,Table 3a,,,,,,,
+,,,,,,,1,,,,
+,,OIL SUPPLY IN OECD COUNTRIES,,,,,,,,,
+Table,3a: Oil Supply in OECD Countries ,,,,,,,,,,
+,,,(thousand of barrels per day),,,,,,,,
 ,2017,2018,2019,1Q18,2Q18,3Q18,4Q18,1Q19,Jun 18,Jul 18,Aug 18
 United States,,,,,,,,,,,
 Alaska,495,465,449,511,481,412,456,495,451,383,418
@@ -446,16 +466,18 @@ Crude Oil,17477,18832,19946,18566,18643,18903,19206,19738,18641,18967,18988
 NGLs,5426,5878,6142,5753,5898,5869,5990,5974,5880,5971,5844
 Non-Conventional Oils4,1296,1306,1341,1368,1318,1238,1301,1397,1421,1328,1216
 Total,24199,26016,27429,25687,25860,26010,26496,27109,25942,26267,26048
-1. Subcategories refer to crude oil only unless otherwise noted.,,,,,,,,,,
-2. Only production from Federal waters is included.
-3. "To the extent possible, condensates from natural gas processing plants are included with NGLs, while field condensates are counted as crude oil.",,,,,,,,,,
-4. Does not include biofuels.
-5. "North Sea production is grouped by area including all fields being processed through the named field complex, ie, not just the field of that name.",,,,,,,,,,
-6. Other North Sea NGLs is included.
-
-
-Table 4: OECD Industry Stocks and Quarterly Stock Changes 
-
+1,Subcategories refer to crude oil only unless otherwise noted.,,,,,,,,,,
+2,Only production from Federal waters is included.,,,,,,,,,,
+3,"To the extent possible, condensates from natural gas processing plants are included with NGLs, while field condensates are counted as crude oil.",,,,,,,,,,
+4,Does not include biofuels.,,,,,,,,,,
+5,"North Sea production is grouped by area including all fields being processed through the named field complex, ie, not just the field of that name.",,,,,,,,,,
+6,Other North Sea NGLs is included.,,,,,,,,,,
+13 SEPTEMBER 2018 ,,,,,,,,,,,7
+TABLES ,,,,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,
+,,,,,Table 4,,,,,,,
+,,,,,1,,,,,,,
+,,OECD INDUSTRY STOCKS,,,AND QUARTERLY STOCK CHANGES,,,,,,,
+Table,4: OECD Industry Stocks and Quarterly Stock Changes ,,,,,,,,,,,
 ,,RECENT MONTHLY STOCKS2,,,,PRIOR YEARS' STOCKS2,,,STOCK CHANGES,,,
 ,,in Million Barrels,,,,in Million Barrels,,,,in mb/d,,
 ,Mar2018,Apr2018,May2018,Jun2018,Jul2018*,Jul2015,Jul2016,Jul2017,3Q2017,4Q2017,1Q2018,2Q2018
@@ -471,6 +493,7 @@ Crude,344.2,352.5,360.3,354.7,356.5,339.3,367,360.1,-0.28,-0.08,0.16,0.12
 Motor Gasoline,96.5,93.8,85.3,84,83.7,83.9,96.9,89.3,-0.06,0.13,-0.03,-0.14
 Middle Distillate,268.4,262.9,260.3,257.1,261.1,284.4,333.9,304.2,-0.04,-0.24,-0.03,-0.12
 Residual Fuel Oil,62.1,61.4,62.2,60.8,59.8,68.3,75.3,63,-0.07,0,0.03,-0.01
+,3,,,,,,,,,,,
 Total Products,545.8,534.1,518.3,520.5,522.2,528.8,608.7,565.7,-0.09,-0.13,0.03,-0.28
 Total4,969.9,970.4,961.8,957.6,961.1,936.4,1045.9,1001,-0.37,-0.24,0.25,-0.14
 OECD Asia Oceania,,,,,,,,,,,,
@@ -478,6 +501,7 @@ Crude,161.1,163.2,162.7,161.8,151.4,204.9,196.2,197,0.09,-0.10,-0.31,0.01
 Motor Gasoline,24,24.4,26.4,24.1,24.5,24.7,24.9,22.8,-0.02,0,0.01,0
 Middle Distillate,62,65.1,64,65.3,70,65.6,71.7,64.1,0.03,-0.04,-0.01,0.04
 Residual Fuel Oil,18.2,19,19.7,21.3,20.6,19.8,19.4,21.6,-0.02,0,-0.01,0.03
+,3,,,,,,,,,,,
 Total Products,161.3,164.9,164.8,165,171.1,170.2,184.2,175.6,0.03,-0.08,-0.04,0.04
 Total4,378,388.4,389.8,388.4,386.1,438.6,441.6,436.5,0.1,-0.23,-0.38,0.11
 Total OECD,,,,,,,,,,,,
@@ -485,9 +509,10 @@ Crude,1090.1,1101.1,1115.7,1089.1,1074.2,1130.8,1213,1200.3,-0.54,-0.66,-0.11,-0
 Motor Gasoline,393.6,389.7,382.6,374.6,370.6,356.6,394.5,374.4,-0.27,0.3,0.05,-0.21
 Middle Distillate,536.2,523.2,510.1,514.3,528.1,565.8,635.7,590.4,-0.16,-0.19,-0.19,-0.24
 Residual Fuel Oil,121,119.1,119.5,117.4,115.3,135.5,139.6,121.4,-0.08,-0.05,0.09,-0.04
+,3,,,,,,,,,,,
 Total Products,1410.5,1395.9,1381.9,1394.4,1416.8,1438.2,1587.8,1493,-0.15,-0.31,-0.36,-0.18
 Total4,2816.3,2820.3,2828.4,2816.4,2824.2,2888.7,3127.2,3025.5,-0.54,-1.26,-0.46,0
-
+,,,,,,5,,,,,,
 ,OECD GOVERNMENT-CONTROLLED STOCKS,,,,,AND QUARTERLY STOCK CHANGES,,,,,,
 ,,RECENT MONTHLY STOCKS2,,,,PRIOR YEARS' STOCKS2,,,STOCK CHANGES,,,
 ,,in Million Barrels,,,,in Million Barrels,,,,in mb/d,,
@@ -512,9 +537,13 @@ Total4,1574.7,1573.3,1569.1,1569.6,1569.9,1584.5,1594.9,1583.9,-0.12,-0.11,0.08,
 3,"Total products includes gasoline, middle distillates, fuel oil and other products.",,,,,,,,,,,
 4,"Total includes NGLs, refinery feedstocks, additives/oxygenates and other hydrocarbons.",,,,,,,,,,,
 5,Includes government-owned stocks and stock holding organisation stocks held for emergency purposes.,,,,,,,,,,,
-
-Table 4a: Industry Stocks on Land in Selected Countries (million barrels)
-
+8,,,,,,,,,,13 SEPTEMBER 2018 ,,
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,,,,,,,,TABLES 
+,,,,,,Table 4a,,,,,,,,,
+,,,,,1,,,,,,,,,,
+,,INDUSTRY STOCKS,,,,ON LAND IN SELECTED COUNTRIES,,,,,,,,,
+Table,4a: Industry Stocks on Land in Selected Countries ,,,,,,,,,,,,,,
+,,,,,,(million barrels),,,,,,,,,
 ,,February,,,March,,,April,,,May,,,June,
 ,2017,2018,%,2017,2018,%,2017,2018,%,2017,2018,%,2017,2018,%
 United States2,,,,,,,,,,,,,,,
@@ -580,13 +609,18 @@ Other products,13.4,11.3,-15.7,13.1,12.6,-3.8,13.2,12.9,-2.3,13,13.7,5.4,12.6,13
 Total products,49,51.4,4.9,48.4,55.3,14.3,49.6,52.2,5.2,46.6,45.9,-1.5,46.7,46.7,0
 Other3,13.2,15.8,19.7,14.5,16.2,11.7,16.9,18,6.5,19.1,20.6,7.9,19.7,22.1,12.2
 Total,186.4,184.2,-1.2,184.8,191.8,3.8,181.3,185.9,2.5,179.6,190.1,5.8,182.5,189.7,3.9
-1.Stocks are primary national territory stocks on land (excluding utilitity stocks and including pipeline and entrepot stocks where known) and include stocks held by industry to meet IEA, EU and national emergency reserve commitments and are subject to government control in emergencies.",,,,,,,,,,,,,,
-2. US figures exclude US territories.
-3."Other includes NGLs; refinery feedstocks; additives/oxygenates and other hydrocarbons."
-4. Canadian stock information for recent months is the administration's best estimate. Data are usually finalised three months after first publication.
-
-Table 5: Total Stocks on Land in OECD Countries ('millions of barrels' and 'days')
-
+1,Stocks are primary national territory stocks on land (excluding utilitity stocks and including pipeline and entrepot stocks where known) and include,,,,,,,,,,,,,,
+,"stocks held by industry to meet IEA, EU and national emergency reserve commitments and are subject to government control in emergencies.",,,,,,,,,,,,,,
+2,US figures exclude US territories.,,,,,,,,,,,,,,
+3,"Other includes NGLs, refinery feedstocks, additives/oxygenates and other hydrocarbons.",,,,,,,,,,,,,,
+4,Canadian stock information for recent months is the administration's best estimate. Data are usually finalised three months after first publication.,,,,,,,,,,,,,,
+13 SEPTEMBER 2018 ,,,,,,,,,,,,,,,9
+TABLES ,,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,
+,,,,Table 5,,,,,,,
+,,,,,,,1,,,,
+,,TOTAL STOCKS ON LAND IN OECD COUNTRIES,,,,,,,,,
+Table,5: Total Stocks on Land in OECD Countries ,,,,,,,,,,
+,,,('millions of barrels' and 'days'),,,,,,,,
 ,,End June 2017,End September 2017,End December 2017,,,End March 2018,,End June 2018,3,
 ,,Stock,Days Fwd2,Stock,Days Fwd,Stock,Days Fwd,Stock,Days Fwd,Stock,Days Fwd
 ,,Level,Demand,Level,Demand,Level,Demand,Level,Demand,Level,Demand
@@ -632,12 +666,15 @@ United Kingdom,,80.7,50,77.5,48,80.1,51,79,49,83.4,-
 Total,,1483.4,101,1443.9,100,1422.6,101,1455.1,103,1443.1,99
 Total OECD,,4607.6,97,4547,95,4420.8,92,4391.1,93,4385.9,92
 DAYS OF IEA Net Imports6 -,,196,-,192,-,187,-,186,-,190,
-1. Total Stocks are industry and government-controlled stocks (see breakdown in table below). Stocks are primary national territory stocks on land (excluding utility stocks and including pipeline and entrepot stocks where known) they include stocks held by industry to meet IEA; EU and national emergency reserves commitments and are subject to government control in emergencies.,,,,,,,,,,
-2. Note that days of forward demand represent the stock level divided by the forward quarter average daily demand and is very different from the days of net imports used for the calculation of IEA Emergency Reserves.,,,,,,,,,,
-3. End June 2018 forward demand figures are IEA Secretariat forecasts.,,,,,,,,,,
-4. US figures exclude US territories.,Total includes US territories.,,,,,,,,,
-5. Data not available for Iceland.,,,,,,,,,,
-6. Reflects stock levels and prior calendar year's net imports adjusted according to IEA emergency reserve definitions (see www.iea.org/netimports.asp).,,,,,,,,,,
+1,Total Stocks are industry and government-controlled stocks (see breakdown in table below).,,Stocks are primary national territory stocks on land (excluding utility stocks,,,,,,,,
+,"and including pipeline and entrepot stocks where known) they include stocks held by industry to meet IEA, EU and national emergency reserves commitments and are",,,,,,,,,,
+,subject to government control in emergencies.,,,,,,,,,,
+2,Note that days of forward demand represent the stock level divided by the forward quarter average daily demand and is very different from the days of net,,,,,,,,,,
+,imports used for the calculation of IEA Emergency Reserves.,,,,,,,,,,
+3,End June 2018 forward demand figures are IEA Secretariat forecasts.,,,,,,,,,,
+4,US figures exclude US territories.,Total includes US territories.,,,,,,,,,
+5,Data not available for Iceland.,,,,,,,,,,
+6,Reflects stock levels and prior calendar year's net imports adjusted according to IEA emergency reserve definitions (see www.iea.org/netimports.asp).,,,,,,,,,,
 ,Net exporting IEA countries are excluded.,,,,,,,,,,
 ,,,TOTAL OECD STOCKS,,,,,,,,
 CLOSING STOCKS,,Total,Government1,Industry,,Total,,Government1,Industry,,
@@ -656,11 +693,15 @@ CLOSING STOCKS,,Total,Government1,Industry,,Total,,Government1,Industry,,
 4Q2017,,4421,1568,2853,,,92,33,60,,
 1Q2018,,4391,1575,2816,,,93,33,60,,
 2Q2018,,4386,1570,2816,,,92,33,59,,
-1. Includes government-owned stocks and stock holding organisation stocks held for emergency purposes.,,,,,,,,,,
-2. Days of forward demand calculated using actual demand except in 2Q2018 (when latest forecasts are used).,,,,,,,,,,
-
-Table 6: IEA Member Country Destinations of Selected Crude Streams (million barrels per day)
-
+1,Includes government-owned stocks and stock holding organisation stocks held for emergency purposes.,,,,,,,,,,
+2,Days of forward demand calculated using actual demand except in 2Q2018 (when latest forecasts are used).,,,,,,,,,,
+10,,,,,,,,,13 SEPTEMBER 2018 ,,
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,,,,TABLES ,
+,,,,,Table 6,,,,,,,
+,,,,,,,,,,1,,
+,IEA MEMBER COUNTRY DESTINATIONS OF SELECTED CRUDE STREAMS,,,,,,,,,,,
+Table,6: IEA Member Country Destinations of Selected Crude Streams ,,,,,,,,,,,
+,,,,(million barrels per day),,,,,,,,
 ,,,,,,,,,,,Year Earlier,
 ,2015,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,Jun 17,change
 Saudi Light & Extra Light,,,,,,,,,,,,
@@ -728,9 +769,13 @@ Asia Oceania,0.01,0.02,0.03,0.01,0.03,0.02,0.01,0.02,0.03,-,0.04,-
 2,Iraqi Total minus Kirkuk.,,,,,,,,,,,
 3,Iranian Total minus Iranian Light.,,,,,,,,,,,
 4,"33° API and lighter (e.g., Bonny Light, Escravos, Qua Iboe and Oso Condensate).",,,,,,,,,,,
-
-Table 7: Regional OECD Imports (thousand barrels per day)
-
+13 SEPTEMBER 2018 ,,,,,,,,,,,,11
+TABLES ,,,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,
+,,,,,Table 7,,,,,,,
+,,,,,,,"1,2",,,,,
+,,,,REGIONAL OECD IMPORTS,,,,,,,,
+Table,7: Regional OECD Imports ,,,,,,,,,,,
+,,,,,(thousand barrels per day),,,,,,,
 ,,,,,,,,,,,Year Earlier,
 ,2015,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,Jun 17,% change
 Crude Oil,,,,,,,,,,,,
@@ -787,9 +832,11 @@ Total OECD,27818,28575,29186,29123,29003,28695,28625,28854,28663,28358,29034,-2%
 2,Excludes intra-regional trade.,,,,,,,,,,,
 3,Includes additives.,,,,,,,,,,,
 12,,,,,,,,,,,13 SEPTEMBER 2018 ,
-
-Table 7a: Regional OECD Imports From Non- OECD Countries (thousand barrels per day)
-
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,,,,,TABLES 
+,,,,,Table 7a,,,,,,,
+,,,,,,,,,"1,2",,,
+,,REGIONAL OECD IMPORTS FROM NON-OECD COUNTRIES,,,,,,,,,,
+Table,7a: Regional OECD Imports From Non- OECD Countries ,,,,(thousand barrels per day),,,,,,,
 ,,,,,,,,,,,Year Earlier,
 ,2015,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,Jun 17,% change
 Crude Oil,,,,,,,,,,,,
@@ -842,12 +889,16 @@ Americas,4904,5494,5293,5252,4988,4868,5044,5242,4902,4994,5622,-11%
 Europe,12171,12022,12619,12631,12658,12256,12048,11784,12143,12213,12912,-5%
 Asia Oceania,8423,8399,8381,8400,8282,8451,8022,8471,8002,7595,7530,1%
 Total OECD,25498,25915,26293,26283,25928,25575,25114,25497,25046,24802,26064,-5%
-1. Based on Monthly Oil Questionnaire data submitted by OECD countries in tonnes and converted to barrels.
-2. Excludes intra-regional trade
-3. Includes additives
-
-Table 7b: Inter-Regional OECD Transfers (thousand barrels per day)
-
+1,Based on Monthly Oil Questionnaire data submitted by OECD countries in tonnes and converted to barrels.,,,,,,,,,,,
+2,Excludes intra-regional trade,,,,,,,,,,,
+3,Includes additives,,,,,,,,,,,
+13 SEPTEMBER 2018 ,,,,,,,,,,,,13
+TABLES ,,,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,
+,,,,,Table 7b,,,,,,,
+,,,,,,,"1,2",,,,,
+,,,INTER-REGIONAL OECD TRANSFERS,,,,,,,,,
+Table,7b: Inter-Regional OECD Transfers ,,,,,,,,,,,
+,,,,(thousand barrels per day),,,,,,,,
 ,,,,,,,,,,,Year Earlier,
 ,2015,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,Jun 17,% change
 Crude Oil,,,,,,,,,,,,
@@ -903,9 +954,12 @@ Total OECD,2320,2660,2893,2840,3074,3120,3511,3358,3617,3556,2970,20%
 1,Based on Monthly Oil Questionnaire data submitted by OECD countries in tonnes and converted to barrels.,,,,,,,,,,,
 2,Excludes intra-regional trade,,,,,,,,,,,
 3,Includes additives,,,,,,,,,,,
-
-Table 8: Regional OECD Crude Imports by Source (thousand barrels per day)
-
+14,,,,,,,,,,13 SEPTEMBER 2018 ,,
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,,,,,TABLES 
+,,,,Table 8,,,,,,,,
+,,,,,,,,1,,,,
+,REGIONAL OECD CRUDE IMPORTS BY SOURCE,,,,,,,,,,,
+Table,8: Regional OECD Crude Imports by Source ,,(thousand barrels per day),,,,,,,,,
 ,,,,,,,,,,,Year Earlier,
 ,2015,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,Jun 17,change
 OECD Americas,,,,,,,,,,,,
@@ -975,9 +1029,13 @@ of which Non-OECD,19554,19725,20028,20209,19538,18963,18765,19216,18688,18394,19
 "1 Based on Monthly Oil Questionnaire data submitted by OECD countries in tonnes, and converted to barrels at 7.37 barrels per tonne.",,,,,,,Data will differ from Table 6,,,,,
 which is based on submissions in barrels.,,,,,,,,,,,,
 "2 West Africa includes Angola, Nigeria, Gabon, Equatorial Guniea, Congo and Democratic Republic of Congo.",,,,,,,,,,,,
-
-
-Table 9: Regional OECD Gasoline Imports by Source (thousand barrels per day)
+13 SEPTEMBER 2018 ,,,,,,,,,,,,15
+TABLES ,,,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,
+,,,,Table 9,,,,,,,,
+,,,,,,,,1,,,,
+,REGIONAL OECD GASOLINE IMPORTS BY SOURCE,,,,,,,,,,,
+Table,9: Regional OECD Gasoline Imports by Source ,,,,,,,,,,,
+,,,(thousand barrels per day),,,,,,,,,
 ,,,,,,,,,,,Year Earlier,
 ,2015,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,Jun 17,change
 OECD Americas,,,,,,,,,,,,
@@ -1029,9 +1087,14 @@ Total OECD Trade2,872,926,991,1106,879,838,1258,1193,1296,1285,1171,114
 of which Non-OECD,405,463,504,550,539,448,529,550,495,543,565,-21
 1 Based on Monthly Oil Questionnaire data submitted by OECD countries in tonnes.,,,,,,,,,,,,
 2 Total figure excludes intra-regional trade.,,,,,,,,,,,,
-
-Table 10: Regional OECD Gasoil/Diesel Imports by Source (thousand barrels per day)
-
+16,,,,,,,,,,13 SEPTEMBER 2018 ,,
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,,,,TABLES ,
+,,,,Table 10,,,,,,,,
+,,,,,,,,1,,,,
+,REGIONAL OECD GASOIL/DIESEL IMPORTS BY SOURCE,,,,,,,,,,,
+Table,10: Regional OECD Gasoil/Diesel Imports by Source ,,,,,,,,,,,
+,,,(thousand barrels per day),,,,,,,,,
+,,,,,,,,,,,Year Earlier,
 ,2015,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,Jun 17,change
 OECD Americas,,,,,,,,,,,,
 Venezuela,1,0,2,1,5,1,-,-,-,-,5,-
@@ -1082,9 +1145,13 @@ Total OECD Trade2,1476,1647,1693,1672,1686,1828,1746,1669,1820,1748,1727,21
 of which Non-OECD,1050,1257,1375,1305,1454,1634,1530,1496,1601,1489,1365,124
 1 Based on Monthly Oil Questionnaire data submitted by OECD countries in tonnes.,,,,,,,,,,,,
 2 Total figure excludes intra-regional trade.,,,,,,,,,,,,
-
-
-Table 11: Regional OECD Jet and Kerosene Imports by Source (thousand barrels per day),,,,,,,,,
+13 SEPTEMBER 2018 ,,,,,,,,,,,,17
+TABLES ,,,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,
+,,,Table 11,,,,,,,,,
+,,,,,,,,,1,,,
+,REGIONAL OECD JET AND KEROSENE IMPORTS BY SOURCE,,,,,,,,,,,
+Table,11: Regional OECD Jet and Kerosene Imports by Source ,,,,,,,,,,,
+,,,(thousand barrels per day),,,,,,,,,
 ,,,,,,,,,,,Year Earlier,
 ,2015,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,Jun 17,change
 OECD Americas,,,,,,,,,,,,
@@ -1136,10 +1203,12 @@ Total OECD Trade2,654,749,754,779,832,669,748,686,793,763,658,105
 of which Non-OECD,501,555,582,603,662,586,625,614,628,634,520,113
 1 Based on Monthly Oil Questionnaire data submitted by OECD countries in tonnes.,,,,,,,,,,,,
 2 Total figure excludes intra-regional trade.,,,,,,,,,,,,
-
-
-Table 12: Regional OECD Residual Fuel Oil Imports by Source (thousand barrels per day)
-
+18,,,,,,,,,,13 SEPTEMBER 2018 ,,
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,,,,TABLES ,,
+,,,Table 12,,,,,,,,,,
+,,,,,,,,,1,,,,
+Table,12: Regional OECD Residual Fuel Oil Imports by Source ,REGIONAL OECD RESIDUAL FUEL OIL IMPORTS BY SOURCE,,,,,,,,,,,
+,,,(thousand barrels per day),,,,,,,,,,
 ,,,,,,,,,,,Year Earlier,,
 ,,2015,2016,2017,3Q17,4Q17,1Q18,2Q18,Apr 18,May 18,Jun 18,Jun 17,change
 OECD Americas,,,,,,,,,,,,,
@@ -1199,9 +1268,11 @@ Table,13: Average IEA CIF Crude Cost and Spot Crude and Production Prices ,
 ,Table Unavailable ,
 ,Available in the subscription version. ,
 ,"To subscribe, visit: www.iea.org/oilmarketreport/subscription ",
-
-Table 14: Monthly Average End-User Prices for Petroleum Products
-
+20,,13 SEPTEMBER 2018 
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,,,,,,TABLES 
+,,,,,Table 14,,,,,,,
+,MONTHLY AVERAGE END-USER PRICES FOR PETROLEUM PRODUCTS,,,,,,,,,,,
+Table,14: Monthly Average End-User Prices for Petroleum Products ,,,,,,,,,,,
 ,,,,,August 2018,,,,,,,
 ,,NATIONAL CURRENCY *,,,,,,,US DOLLARS,,,
 ,Total,% change from,Ex-Tax,,% change from,,Total,% change from,Ex-Tax,,% change from,
@@ -1243,13 +1314,17 @@ United Kingdom,-,-,-,-,-,-,-,-,-,-,-,-
 Japan,-,-,-,-,-,-,-,-,-,-,-,-
 Canada,-,-,-,-,-,-,-,-,-,-,-,-
 United States,-,-,-,-,-,-,-,-,-,-,-,-
-1. "Unleaded premium (95 RON) for France, Germany, Italy, Spain, UK; regular unleaded for Canada, Japan and the United States.",,,,,,,,,,,
-2. Kerosene for Japan.,,,,,,,,,,,
-3. VAT excluded from prices for low sulphur fuel oil when refunded to industry.,,,,,,,,,,,
+1,"Unleaded premium (95 RON) for France, Germany, Italy, Spain, UK; regular unleaded for Canada, Japan and the United States.",,,,,,,,,,,
+2,Kerosene for Japan.,,,,,,,,,,,
+3,VAT excluded from prices for low sulphur fuel oil when refunded to industry.,,,,,,,,,,,
 "* Prices for France, Germany, Italy and Spain are in Euros;",,,"UK in British Pounds, Japan in Yen, Canada in Canadian Dollars.",,,,,,,,,
-
-Table 15: IEA/KBC Global Indicator Refining Margins ($/bbl)
-
+13 SEPTEMBER 2018 ,,,,,,,,,,,,21
+TABLES ,,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,
+,,,,Table 15,,,,,,,,
+,,,,,,1,,,,,,
+,,IEA/KBC Global Indicator Refining Margins,,,,,,,,,,
+Table,15: IEA/KBC Global Indicator Refining Margins ,,,,,,,,,,,
+,,,,($/bbl),,,,,,,,
 ,,Monthly Average,,,,Change,,Average for week ending:,,,,
 ,May 18,Jun 18,Jul 18,Aug 18,Aug 18-Jul 18,,10 Aug,17 Aug,24 Aug,31 Aug,07 Sep,
 NW Europe,,,,,,,,,,,,
@@ -1285,9 +1360,12 @@ Singapore,,,,,,,,,,,,
 "depreciation and amortisation. Consequently, reported margins should be taken as an indication, or proxy, of changes in profitability for a given refining centre. No attempt is made to model or otherwise comment upon the relative",,,,,,,,,,,,
 "economics of specific refineries running individual crude slates and producing custom product sales, nor are these calculations intended to infer the marginal values of crude for pricing purposes.",,,,,,,,,,,,
 "Source: IEA, KBC Advanced Technologies (KBC)",,,,,,,,,,,,
-
-Table 16: Refined Product Yields Based On Total Input (%) 
-
+22,,,,,,,,,13 SEPTEMBER 2018 ,,,
+INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,,,TABLES ,,
+,,,Table 16,,,,,,
+,,,,,1,,,,
+Table,16: Refined Product Yields Based On Total Input (%) ,REFINED PRODUCT YIELDS BASED ON TOTAL INPUT (%),,,,,,,
+,,,,Jun 18 vs,Jun 18 vs,Jun 18 vs,,,
 ,,,,Previous,Previous,5 Year,5 Year,,
 ,,Apr-18,May-18,Jun-18,Jun-17,Month,Year,Average,Average
 OECD Americas,,,,,,,,,
@@ -1326,10 +1404,12 @@ Gasoil/diesel oil,,31.7,31.6,31.8,31.8,0.2,0,-0.4,32.1
 Residual fuel oil,,6.7,6.4,5.9,6,-0.5,0,-0.1,6.1
 Petroleum coke,,2.8,2.8,2.7,2.9,0,-0.1,-0.1,2.8
 Other products,,13,13.5,13.6,13.5,0.1,0.1,-0.2,13.8
-1. "Due to processing gains and losses, yields in % will not always add up to 100%",,,,,,,,
-
-Table 17: World Biofuels Production (thousand barrels per day)
-
+1,"Due to processing gains and losses, yields in % will not always add up to 100%",,,,,,,,
+13 SEPTEMBER 2018 ,,,,,,,,23,
+TABLES ,,,,,INTERNATIONAL ENERGY AGENCY - OIL MARKET REPORT ,,,,,
+,,,Table 17,,,,,,,
+Table,17: World Biofuels Production ,WORLD BIOFUELS PRODUCTION,,,,,,,,
+,,,(thousand barrels per day),,,,,,,
 ,,,ETHANOL,,,,,,,
 ,2016,2017,2018,4Q17,1Q18,2Q18,Jun 18,Jul 18,Aug 18,
 OECD Americas1,1026,1062,1076,1088,1080,1074,1098,1074,1074,
@@ -1372,7 +1452,82 @@ Total Non-OECD Biodiesel,280,300,304,301,304,304,304,304,304,
 ,Other,164,170,169,165,174,163,,,
 Total Biodiesel,632,682,661,695,635,676,688,665,665,
 Global Biofuels,2385,2471,2559,2477,2091,2709,3009,3028,3010,
-1. "As of August 2012 OMR, OECD Americas includes Chile.",,,,,,,,,
-2. "As of August 2012 OMR, OECD Europe includes Estonia and Slovenia.",,,,,,,,,
-3. "As of August 2012 OMR, OECD Asia Oceania includes Israel.",,,,,,,,,
-
+1,"As of August 2012 OMR, OECD Americas includes Chile.",,,,,,,,,
+2,"As of August 2012 OMR, OECD Europe includes Estonia and Slovenia.",,,,,,,,,
+3,"As of August 2012 OMR, OECD Asia Oceania includes Israel.",,,,,,,,,
+*,monthly data not available.,,,,,,,,,
+24,,,,,,,,13 SEPTEMBER 2018 ,,
+©,© O, O,E,E,C,C,D,D,/,/,I,I,E,E,A,A 2,2,0,0,1,1,8,8,.,.,,A, A,l,l,l,l R, R,i,i,g,g,h,h,t,t,s,s R, R,e,e,s,s,e,e,r,r,v,v,e,e,d,d,,,
+Without,,,,,,,,,,,prejudice,,,,,,,,,,,,,,to,,,,,,the,,,,,,,terms,,,,,,,,,,and,,,,,,,,conditions,on,the,IEA,website,at
+,www.iea.org/t&c/termsandconditions/ (the,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Terms), which also apply to this",Oil,,,,
+,"Market Report (OMR) and its related publications, the Executive Director and",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+the,,,,Secretariat,,,,,,,,,,,,,,,of,,,,,,the,,,,,,IEA,,,,,,are,,,,,,responsible,,,,,,,,,,,,,for,the,publication,of,the,OMR.
+,"Although some of the data are supplied by IEA Member-country governments,",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+largely,,,,,,,,on,,,,,,the,,,,basis,,,,,,,,,of,,,,information,,,,,,,,,,,,,,,,,,they,,,,,,,in,turn,receive,from,oil,"companies,"
+neither,,,,,,,,these,,,,,,,,,,governments,,,,,,,,,,,,,,,,,,,,,nor,,,,,,these,,,,,,,,,,oil,companies,necessarily,share,the,,
+Secretariat’s,,,,,,,,,,,,,,,,views,,,,,,,,,or,,,,,,conclusions,,,,,,,,,,,,,,,,,,as,,,,,,expressed,in,the,OMR.,The,OMR ,is
+,prepared for general circulation and is distributed for general information only.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Neither the information nor any opinion expressed in the,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OMR constitutes an,,,,,
+"offer,",,,,,,or an invitation to,,,,,,,,,,,,,,,,,,,,,,,,,,,make an,,,,,,,,,,,,,,"offer,",,,,,,,,,to buy,or sell any securities or any,,,,
+,"options, futures or other derivatives related to such securities. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"As set out in the Terms, the OECD/IEA owns the copyright in this OMR. However,",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,in relation to the edition of OMR made available to Subscribers (as defined in,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+the,,,,"Terms), all Argus information",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,is sourced,,,,,,,,,,,as Copyright ©,2018 Argus Media,,,,
+,Limited and is published here with the permission of Argus. The spot crude and,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product,,,,,,,,,price,,,,,,,,assessments,,,,,,,,,,,,,,,,,,,are,,,,,,,based,,,,,,,,,,on,,,daily,Argus,"prices,",converted,when,
+,appropriate to USD per barrel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,according to the Argus specification of products.,,,,,,,,,,,,,,,,,,,
+,Argus Media Limited reserves all rights in relation to all Argus information.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Any,,,,,
+reproduction,,,,,,,,,,,,,,,,,of,,,,,,Argus,,,,,,,,,,,information,,,,,,,,,,,,,,,,,,,,requires,,the,express,prior,written,,
+,permission of Argus. Argus shall not be liable to any,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"party for any inaccuracy,",,,,,
+,error or omission contained or provided in Argus information contained in this,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"OMR or for any loss, or damage, whether or not due to reliance placed by that",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,party on information in this OMR. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Editor ,,,,,,,,,,Neil Atkinson ,,,,
+,,,,,,,, +33 (0)1 40 57 65 90 ,,,,,,
+,,,,,,,, Neil.Atkinson@iea.org ,,,,,,
+Demand ,,,,,,,,,Christophe Barret ,,,,,
+,,,,,,,, +33 (0)1 40 57 65 16 ,,,,,,
+,,,,,,, Christophe.Barret@iea.org ,,,,,,,
+OPEC Supply ,,,,,,,,,,,Peg Mackey ,,,
+,,,,,,,, +33 (0)1 40 57 65 81 ,,,,,,
+,,,,,,,, Peg.Mackey@iea.org ,,,,,,
+Non-OPEC Supply ,,,,,,,,,,Toril Bosoni ,,,,
+,,,,,,,, +33 (0)1 40 57 67 18 ,,,,,,
+,,,,,,,, Toril.Bosoni@iea.org ,,,,,,
+Refining ,,,,,,,,,Kristine Petrosyan ,,,,,
+,,,,,,,, +33 (0)1 40 57 66 05 ,,,,,,
+,,,,,,, Kristine.Petrosyan@iea.org ,,,,,,,
+Stocks ,,,,,,,,,,Olivier Lejeune ,,,,
+,,,,,,,, +33 (0)1 40 57 67 58 ,,,,,,
+,,,,,,,, Olivier.Lejeune@iea.org ,,,,,,
+Prices ,,,,,,,,,,,Anne Kloss ,,,
+,,,,,,,, +33 (0)1 40 57 67 28 ,,,,,,
+,,,,,,,, Anne.Kloss@iea.org ,,,,,,
+Analyst ,,,,,,,,,Jose Alfredo Peral ,,,,,
+,,,,,,,,  +33 (0)1 40 57 65 03 ,,,,,,
+,,,,,,, JoseAlfredo.Peral@iea.org ,,,,,,,
+Analyst ,,,,,,,,,,,Jing Wang ,,,
+,,,,,,,, +33 (0)1 40 57 67 78 ,,,,,,
+,,,,,,,, Jing.Wang@iea.org ,,,,,,
+Statistics ,,,,,,,,,Pierre Monferrand ,,,,,
+,,,,,,,, +33 (0)1 40 57 66 67 ,,,,,,
+,,,,,,, Pierre.Monferrand@iea.org ,,,,,,,
+Editorial Assistant ,,,,,,,,Deven Mooneesawmy ,,,,,,
+,,,,,,,, +33 (0)1 40 57 65 03 ,,,,,,
+,,,,,, Deven.Mooneesawmy@iea.org ,,,,,,,,
+Media Enquiries ,,,,,,,, +33 (0)1 40 57 65 54 ,,,,,,
+IEA Press Office ,,,,,,,, ieapressoffice@iea.org ,,,,,,
+Subscription and Delivery Enquiries ,,,,,,,,,,,,,,
+Oil Market Report Subscriptions ,,,,,,,,,,,,,,
+International Energy Agency ,,,,,,,,,,,,,,
+"BP 586-75726 PARIS Cedex 15, France ",,,,,,,, +33 (0)1 40 57 67 12 ,,,,,,
+ OMRSubscriptions@iea.org ,,,,,,,,,,,,,,
+www.iea.org/publications/oilmarketreport/ ,,,,,,,, +33 (0)1 40 57 66 90 ,,,,,,
+User’s Guide and Glossary to the IEA Oil Market Report ,,,,,,,,,,,,,,
+"For information on the data sources, definitions, technical terms and general approach used in preparing",,,,,,,,,,,,,,
+"the Oil Market Report (OMR), Market Report Series_Oil and Annual Statistical Supplement (current issue of the",,,,,,,,,,,,,,
+Statistical,Supplement,dated,10,August,"2018),",readers,are,referred,to,the,Users’,Guide,at,
+www.oilmarketreport.org/glossary.asp. ,,,,It,should,be,noted,that,the,spot,crude,and,product,price
+"assessments are based on daily Argus prices, converted when appropriate to US$ per barrel according to",,,,,,,,,,,,,,
+the Argus specification of products (Copyright © 2018 Argus Media Limited - all rights reserved). ,,,,,,,,,,,,,,
+,Next Issue: 12 October 2018 ,,,,,,,,,,,,,
