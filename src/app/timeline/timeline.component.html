@@ -1,0 +1,25 @@
+ <!-- Add the timeline -->
+ <vertical-timeline>
+   
+    <!-- Add some cards to the timeline. It works with *ngFor too -->
+  
+    <!-- If no value is passed for the date, the current time is used. -->
+    <vertical-timeline-card>
+    <h1>Today</h1>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis sagittis urna, et molestie ante. Pellentesque ut lorem velit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lacus ligula, iaculis sit amet est id, auctor porta nisl. Mauris aliquet condimentum metus ac suscipit. Proin vel ultrices turpis. Cras volutpat viverra magna nec commodo. Integer purus nulla, molestie in odio quis, scelerisque rhoncus leo. Maecenas elementum tellus lorem, vel pellentesque nibh cursus pretium. Aenean varius justo eget urna pharetra ultricies. Nulla tempus vulputate ligula vel tempor. Suspendisse eleifend tellus ac justo vestibulum ullamcorper.
+      <div class="vis"> 
+        <bar-chart type="vertical-stacked"></bar-chart>
+      </div>
+    </vertical-timeline-card>
+
+    <vertical-timeline-card [dateValue]="tomorrow">
+      <h1>Tomorrow</h1>
+      Pellentesque porta rutrum nibh vel tincidunt. Proin aliquam, mi id fermentum venenatis, est elit euismod nibh, nec rhoncus velit ante nec mauris. Ut dictum mauris a suscipit vestibulum. Etiam blandit metus at molestie commodo. Etiam egestas dolor non purus ultricies porta et sit amet nisl. Vivamus lobortis, tellus eget imperdiet egestas, dolor sapien feugiat erat, vestibulum aliquet magna urna ut lectus. Vivamus porta id nibh a finibus. Pellentesque pulvinar neque a nisl aliquam, et rutrum ligula cursus. Phasellus non laoreet magna, et finibus ex. Pellentesque nec scelerisque velit, sit amet sodales est. Donec et elit placerat, finibus sapien ac, posuere massa. Donec at enim dolor.
+      Quisque dictum vel erat eu ultricies. Nullam ante nisl, fermentum id sagittis eleifend, sodales vitae nibh. Integer eleifend feugiat massa dictum blandit. Quisque euismod ultrices urna, id suscipit tellus. Proin lectus est, vulputate suscipit aliquam sagittis, malesuada eu mauris. Pellentesque facilisis est malesuada rutrum rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus consequat laoreet vestibulum. Quisque eu est eros. Nullam sed egestas odio. Duis nec massa purus.
+      <div class="vis"> 
+        <bar-chart type="horizontal-2d"></bar-chart>
+      </div>
+    </vertical-timeline-card>
+
+</vertical-timeline>
+
