@@ -12,7 +12,7 @@ export class BarChartComponent implements OnInit {
   data: any;
   singleResults : any[] = single;
   multiResults :any[] = multi;
-  view: any[] = [700, 400];
+  view: any[] = [500, 400];
   // options
   showXAxis = true;
   showYAxis = true;
